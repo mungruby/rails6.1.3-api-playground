@@ -22,3 +22,8 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+## How this app was created:
+
+**rails _6.1.3_ new ApiPlayground --api**
+
