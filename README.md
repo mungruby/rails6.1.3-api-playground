@@ -25,5 +25,5 @@ Things you may want to cover:
 
 ## How this app was created:
 
-**rails _6.1.3_ new ApiPlayground --api**
+**rails \_6.1.3_ new ApiPlayground --api**
 
